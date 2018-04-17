@@ -9,6 +9,7 @@ djangorestframework = "*"
 pymysql = "*"
 pygments = "*"
 httpie = "*"
+coreapi = "*"
 
 [dev-packages]
 
