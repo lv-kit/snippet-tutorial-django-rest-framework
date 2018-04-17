@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "77eb68dc2805f6f3dbb9cd1681d05c8b6ecc52a63fed2778fd0569b70fd87d09"
+            "sha256": "05875070066e7e76c3732e66e7e81146bdb33af5264257b37127a26f88747fbf"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -30,6 +30,13 @@
             ],
             "version": "==3.0.4"
         },
+        "click": {
+            "hashes": [
+                "sha256:29f99fc6125fbc931b758dc053b3114e55c77a6e4c6c3a2674a2dc986016381d",
+                "sha256:f15516df478d5a56180fbf80e68f206010e6d160fc39fa508b65e035fd75130b"
+            ],
+            "version": "==6.7"
+        },
         "coreapi": {
             "hashes": [
                 "sha256:46145fcc1f7017c076a2ef684969b641d18a2991051fddec9458ad3f78ffc1cb",
@@ -37,6 +44,13 @@
             ],
             "index": "pypi",
             "version": "==2.3.3"
+        },
+        "coreapi-cli": {
+            "hashes": [
+                "sha256:d76b5320ea9ad04d922001ac8897b903a7a359c08a53822f819134c50aa22c5f"
+            ],
+            "index": "pypi",
+            "version": "==1.0.9"
         },
         "coreschema": {
             "hashes": [
