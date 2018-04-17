@@ -8,6 +8,7 @@ django = "*"
 djangorestframework = "*"
 pymysql = "*"
 pygments = "*"
+httpie = "*"
 
 [dev-packages]
 
